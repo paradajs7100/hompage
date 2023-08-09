@@ -9,3 +9,8 @@ body {
 .link{
     color: #486275;
 }
+
+.about{
+    width: 100%;
+    max-width: 700px;
+}
